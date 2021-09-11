@@ -1,10 +1,6 @@
 h1 {color:rgb(64, 143, 64);
     background-color: rgb(255, 176, 202);}
 #fancyfont {font-family: "Brush Script MT", cursive;}
-ul {background-color: cornflowerblue;
-    color: white;
-list-style-type: none;
- display: inline-block;}
 ul li:hover {
     background-color: teal;
     color: white;
