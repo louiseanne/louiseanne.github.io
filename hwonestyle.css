@@ -3,7 +3,6 @@ h1 {color:rgb(64, 143, 64);
 h1{text-align: center;}
 #fancyfont {font-family: "Brush Script MT", cursive;}
 ul li:hover {background-color: rgb(255, 176, 202);}
-#homebutton {color: peru;}
 table, th, td {
     border:1px solid red;
     text-align: center;
