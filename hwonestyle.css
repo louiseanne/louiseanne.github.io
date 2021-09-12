@@ -6,6 +6,7 @@ ul li:hover {background-color: rgb(255, 176, 202);}
 #homebutton {color: peru;}
 table, th, td {
     border:1px solid red;
+    text-align: center;
 }
 
 
