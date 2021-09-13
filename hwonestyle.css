@@ -12,7 +12,8 @@ table, th, td {
     margin-right: auto;
 }
 a {color:rgb(64, 143, 64);}
-.people p{
+
+.people{
 background-color: rgb(79, 179, 79);
 border: 5px outset rgb(49, 121, 230);
 }
