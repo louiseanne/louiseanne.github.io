@@ -34,7 +34,7 @@ color: blue;
     width: 60em;
     border: 3px solid rgb(64, 143, 64);
 }
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 1000px){
     body{
         background-color:rgb(255, 176, 202);
     }
