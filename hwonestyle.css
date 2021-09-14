@@ -16,6 +16,17 @@ a {color:rgb(64, 143, 64);}
 .people p {
 color: blue;
 }
-
+.trickmirror p{
+    color: rgb(182, 5, 182)
+}
+.less p{
+    color: mediumblue;
+}
+.idiot p{
+    color: rgb(30, 105, 103);
+}
+.kafka p{
+    color: rgb(31, 81, 173);
+}
 
 
