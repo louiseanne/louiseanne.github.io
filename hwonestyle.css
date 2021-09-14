@@ -1,6 +1,8 @@
 h1 {color:rgb(64, 143, 64);
     background-color: rgb(255, 176, 202);}
 h1{text-align: center;}
+h2{color:rgb(64, 143, 64);}
+h3{color: rgb(64, 143, 64);}
 #fancyfont {font-family: "Brush Script MT", cursive;}
 ul li:hover {background-color: rgb(255, 176, 202);}
 table, th, td {
